@@ -1,4 +1,4 @@
 - Hi, I’m @ItsmeHJB, otherwise known as Harrison
 - I’m currently studying an MSc in Data Science at the University of Bristol
 - Feel free to contact me through linkedin attached to my account, or via my email: harrison.be@hotmail.co.uk
-- I'm looking for graduate positions in a data, or artificial learning role once I finish my Master's. I'm flexible on both location and hours, so feel free to get in contact if you're looking for a highly motivated individual.
+- I'm looking for graduate positions as a data scientist or machine learning engineer role after I graduate.
