@@ -1,4 +1,3 @@
 - Hi, I’m @ItsmeHJB, otherwise known as Harrison
-- I’m currently studying an MSc in Data Science at the University of Bristol
+- I’m currently working as a graduate Data Scientist at Admiral Group Plc
 - Feel free to contact me through linkedin attached to my account, or via my email: harrison.be@hotmail.co.uk
-- I'm looking for graduate positions as a data scientist or machine learning engineer role after I graduate.
